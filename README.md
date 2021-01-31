@@ -26,6 +26,7 @@ The way this works is by first reading the voltage output from the Analog 0 pin 
 + + MOSI (D11)
 + + MISO (D12)
 + + SCK (D13)
++ + GRND (GRND)
 
 
 
